@@ -1,0 +1,16 @@
+{
+    "name": "basetools",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "scripts": {
+      "start": "webpack"
+    },
+    "keywords": [],
+    "author": "wangyang",
+    "devDependencies": {
+      "webpack": "^4.0.1",
+      "webpack-cli": "^2.0.9"
+    },
+    "dependencies": {}
+  }
